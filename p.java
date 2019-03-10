@@ -11,7 +11,7 @@ public class p extends o {
     void show1()
     {
         super.show1();
-        System.out.println("Hello ");
+        System.out.println("Hello from p ");
     }
     int func1(int x, int y)
     {

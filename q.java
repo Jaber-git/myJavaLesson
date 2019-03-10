@@ -11,7 +11,7 @@ public class q extends p
 int a=17,b=124;
    q()
    {
-       System.out.println(" in side q");
+       System.out.println("inside q constructor");
    }
    //overriding
     void show1()

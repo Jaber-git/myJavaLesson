@@ -6,7 +6,7 @@ public class r extends q{
     int a=255;
     r()
     {
-        System.out.println("inside R");
+        System.out.println("inside R constructor");
     }
     //overriding
     int func1(int x ,int y)
